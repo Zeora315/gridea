@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gridea.zeora.top</id>
+    <title>Gridea</title>
+    <updated>2026-02-26T15:54:39.926Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gridea.zeora.top"/>
+    <link rel="self" href="https://gridea.zeora.top/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://gridea.zeora.top/images/avatar.png</logo>
+    <icon>https://gridea.zeora.top/favicon.ico</icon>
+    <rights>All rights reserved 2026, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[Breek Pro文档]]></title>
+        <id>https://gridea.zeora.top/post/docs/</id>
+        <link href="https://gridea.zeora.top/post/docs/">
+        </link>
+        <updated>2026-02-21T02:41:14.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="食用方法">食用方法</h2>
+<ol>
+<li><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi mathvariant="normal">下</mi><mi mathvariant="normal">载</mi><mi mathvariant="normal">主</mi><mi mathvariant="normal">题</mi><mi mathvariant="normal">文</mi><mi mathvariant="normal">件</mi></mrow><annotation encoding="application/x-tex">下载主题文件</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0em;vertical-align:0em;"></span><span class="mord cjk_fallback">下</span><span class="mord cjk_fallback">载</span><span class="mord cjk_fallback">主</span><span class="mord cjk_fallback">题</span><span class="mord cjk_fallback">文</span><span class="mord cjk_fallback">件</span></span></span></span></li>
+<li>点击 Gridea 左侧「系统」菜单，查看源文件夹目录</li>
+<li>将主题文件夹放入 Gridea 的 <code>themes</code> 目录</li>
+<li>在 Gridea 客户端中选择「BreekPro」主题</li>
+<li>根据需要进行自定义配置</li>
+<li>点击「同步」部署到网站</li>
+</ol>
+<h2 id="支持的页面">支持的页面</h2>
+<ul>
+<li>首页文章列表</li>
+<li>文章详情页</li>
+<li>归档页面</li>
+<li>标签页面</li>
+<li>搜索结果页</li>
+<li><strong><a href="/essay">即刻说说</a></strong> - 类似微博的短内容页面</li>
+<li><strong><a href="/books">书单</a></strong> - 展示阅读过的书籍</li>
+<li><strong><a href="/bangumis">追番</a></strong> - 展示追番列表</li>
+<li><strong><a href="friends">友链</a></strong> - 友情链接页面</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Breek Pro Theme for Gridea]]></title>
+        <id>https://gridea.zeora.top/post/Breek-Pro-Theme-for-Gridea/</id>
+        <link href="https://gridea.zeora.top/post/Breek-Pro-Theme-for-Gridea/">
+        </link>
+        <updated>2026-02-04T02:33:40.000Z</updated>
+        <summary type="html"><![CDATA[<p>一款简洁优雅的 Gridea 博客主题，支持多种自定义页面和丰富的功能。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一款简洁优雅的 Gridea 博客主题，支持多种自定义页面和丰富的功能。</p>
+<!-- more -->
+<h2 id="breek-pro-theme-for-gridea">Breek Pro Theme for Gridea</h2>
+<p><strong>一篇基于gridea-theme-breek修改的主题</strong><br>
+文档：📖<a href="/post/docs">文档</a></p>
+<h2 id="主题特点">主题特点</h2>
+<h2 id="主题特点-2">主题特点</h2>
+<ul>
+<li><strong>简洁现代的设计</strong> - 清新简约的界面风格，注重阅读体验</li>
+<li><strong>响应式布局</strong> - 完美适配桌面端和移动端</li>
+<li><strong>特色页面</strong> - 支持即刻说说、书单、影单、追番、友链等页面</li>
+<li><strong>内置搜索功能</strong> - 支持文章模糊搜索</li>
+<li><strong>社交图标</strong> - 支持多种社交平台图标自定义</li>
+</ul>
+<blockquote>
+<p>如有问题请提 issue</p>
+</blockquote>
+]]></content>
+    </entry>
+</feed>
